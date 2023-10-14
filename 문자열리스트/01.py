@@ -20,6 +20,7 @@ for i in range(len(w) + 1):
 print("행 슬라이싱 결과:")
 print(arr)
 
+
 arr2 = []
 for array in arr:
     for i in range(len(c) + 1):
