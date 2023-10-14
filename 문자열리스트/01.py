@@ -34,7 +34,7 @@ print("열 슬라이싱 결과:")
 print(arr2)
 
 
-# 각 리스트에서 알파벳의 갯수를 세기 위한 함수
+# 각 리스트에서 알파벳의 갯수를 세기 위한 함수 #
 def count_alphabets(lst):
     alphabet_counts = {}
     for row in lst:
