@@ -17,8 +17,3 @@
 # print(len(unique_alphabets))
 
 
-m = 2048
-arr = [-2048, 2048]
-
-if m % 2 == 0 and -m in arr and m in arr:
-    print(231)
